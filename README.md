@@ -15,14 +15,11 @@ This assignment uses data from the UC Irvine Machine Learning Repository, a popu
 ![alt text]( https://github.com/deon9661/ExData_Plotting1/blob/master/plot1.png "Assignment Plot 1")
 
 ### Plot 2
-Inline-style: 
 ![alt text]( https://github.com/deon9661/ExData_Plotting1/blob/master/plot2.png "Assignment Plot 2")
 
 ### Plot 3
-Inline-style: 
 ![alt text]( https://github.com/deon9661/ExData_Plotting1/blob/master/plot3.png "Assignment Plot 3")
 
 ### Plot 4
-Inline-style: 
 ![alt text]( https://github.com/deon9661/ExData_Plotting1/blob/master/plot4.png "Assignment Plot 4")
 
